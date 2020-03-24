@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>148581744185-kb4jvqh6ech3j68l8j8hgrp4ocu6tt5d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.148581744185-kb4jvqh6ech3j68l8j8hgrp4ocu6tt5d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcPXjgz2JwW2zNJZIoJ0kKvroMQHv1tKQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>148581744185</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.LoginApp</string>
+	<key>PROJECT_ID</key>
+	<string>login-app-1734e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-app-1734e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:148581744185:ios:2e2cb7b798a06c60d6d7e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-app-1734e.firebaseio.com</string>
+</dict>
+</plist>
